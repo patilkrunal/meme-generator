@@ -985,7 +985,7 @@ function Header() {
       "a",
       {
         style: { marginLeft: "auto", marginRight: "10%", float: "right" },
-        href: "https://github.com/patilkrunal/"
+        href: "https://github.com/patilkrunal/meme-generator"
       },
       _react2.default.createElement("img", {
         src: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.afterdawn.fi%2Fv3%2Fnews%2Foriginal%2Fgithub-logo.png&f=1&nofb=1",
